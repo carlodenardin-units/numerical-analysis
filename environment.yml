@@ -1,0 +1,8 @@
+name: numerical-analysis
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - matplotlib
+  - sympy
+  - ipykernel
